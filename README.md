@@ -4,19 +4,21 @@ Welcome to the FinTech repository! This repository hosts various projects showca
 
 ## Projects:
 
-<!-- 1. **Forecasting**: Projects focusing on utilizing AI techniques for financial forecasting, including stock price prediction, market trend analysis, and economic forecasting. 
+1. **Real Estate**: 
+- Regression Analysis
+- Dashboard
 
-2. **Fraud Detection**: Explore AI-powered fraud detection systems designed to identify and prevent fraudulent activities in financial transactions, such as credit card fraud, identity theft, and money laundering.
+2. **Forecasting**: Work In Progress...
 
-3. **Personal Finance**: Discover applications of AI in personal finance management, including budgeting, expense tracking, savings optimization, and personalized financial advice.
+3. **Fraud Detection**: Work In Progress...
 
-4. **Portfolio Management**: Learn about AI-driven portfolio management strategies, asset allocation optimization, risk assessment, and investment decision support systems. -->
+4. **Personal Finance**: Work In Progress...
 
-1. **Real Estate**: Utilize regression analysis to forecast property prices and interactive dashboards to visualize real estate market trends, empowering stakeholders with valuable insights.
+5. **Portfolio Management**: Work In Progress...
 
-<!-- 6. **Risk Analysis**: Dive into projects analyzing financial risk using AI techniques, including credit risk assessment, market risk modeling, and insurance risk management.
+6. **Risk Analysis**: Work In Progress...
 
-Each project folder contains code, documentation, and any relevant resources associated with the specific application. Feel free to explore, contribute, or use these projects for your learning and research purposes. -->
+Each project folder contains code, documentation, and any relevant resources associated with the specific application. Feel free to explore, contribute, or use these projects for your learning and research purposes.
 
 ## Contact:
 
