@@ -4,7 +4,7 @@ Welcome to the FinTech repository! This repository hosts various projects showca
 
 ## Projects:
 
-1. **<u>Real Estate</u>**: 
+1. **Real Estate**: 
 - Regression Analysis
 - Dashboard
 
